@@ -60,11 +60,11 @@ enregistrer ce script ( connexion illimitées ) server.conf
 
 5 . Demarrer le serveur 
 
-Propulsé par https://talkai.info/
-
     sudo systemctl start openvpn@server
 
 Demmarage en même temps que le system 
 
     sudo systemctl enable openvpn@server
 
+
+Propulsé par https://talkai.info/
