@@ -1,4 +1,10 @@
-# Server_vpn
+# Server VPN
+
+REQUIREMENTS :
+
+    sudo apt install openvpn 
+    sudo apt install openvpn easy-rsa -y
+
 
 1 . RUN 
 
